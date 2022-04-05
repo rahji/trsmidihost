@@ -1,7 +1,7 @@
 # TRS MIDI Host
 A PCB that adds TRS MIDI jacks to the [Hobbytronics USB MIDI Host PCB](https://www.hobbytronics.co.uk/usb-host-midi)
 
-Sorry, I'm being lazy by not including PNGs of the schematic or PCB. Files are in Diptrace format and the Gerber ZIP file is ready to be uploaded to a PCB fab.
+Sorry, I'm being lazy by not including PNGs of the schematic or PCB. Files are in Diptrace format and the Gerber ZIP file is ready to be uploaded to a PCB fab. This board is based on the schematic from Hobbytronics. I have made it and haven't gotten it to work with the MIDI gear I've got, so you'll have to let me know if it works for you.
 
 ## BOM
 
